@@ -476,4 +476,5 @@ scheduling. Use Redshift Spectrum for larger datasets.
 
 # Author
 **Vaishali Kawadapure**
-PG Diploma in Big Data Analytics — CDAC Nagpur
+PG Diploma in Big Data Analytics — CDAC Chennai
+
