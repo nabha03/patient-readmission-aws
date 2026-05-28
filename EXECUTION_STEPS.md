@@ -22,7 +22,7 @@ CSV Upload → S3 → Lambda (auto trigger) → AWS Glue (PySpark ETL)
 ## Dataset
 - Name: Diabetes 130-US Hospitals (1999–2008)
 - Source: https://www.kaggle.com/datasets/brandao/diabetes
-- Size: 99,492 patient records, 50 features
+- Size: 99,343 patient records, 50 features
 - Target: Predict 30-day hospital readmission (binary classification)
 
 ---
